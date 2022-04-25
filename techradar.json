@@ -1,0 +1,31 @@
+{
+  "entries": [
+    {
+      "key": "typescript",
+      "id": "typescript",
+      "quadrant": "languages",
+      "title": "TypeScript",
+      "url": "#",
+      "timeline": [
+        {
+          "date": "2022-04-25T00:00:00",
+          "ringId": "use",
+          "moved": -1
+        }
+      ]
+    }
+  ],
+  "quadrants": [
+    {
+      "id": "languages",
+      "name": "Languages"
+    }
+  ],
+  "rings": [
+    {
+      "id": "use",
+      "name": "USE",
+      "color": "#93c47d"
+    }
+  ]
+}
